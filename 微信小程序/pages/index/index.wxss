@@ -1,0 +1,61 @@
+/**index.wxss**/
+page{
+  background-color: #e8e8e8e8;
+}
+.container{
+  width: 100%;
+}
+
+.lunbor swiper-item image{
+  width: 100%;
+  height: 250px;
+}
+
+.box{
+  margin-top: 10px; 
+  padding-top: 20px;
+  height: 250px;
+  width: 100%;
+  background-color: #FFFFFF;
+}
+.box .list-title{
+  margin-left: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.box .list-title text{
+  font-size: 17px;
+}
+.box .list-title navigator{
+  font-size: 15px;
+  color: gray;
+  padding-right: 2em;
+}
+
+.box .list-title navigator image{
+  height: 15px;
+  width: 15px;
+  vertical-align: middle;
+}
+
+.box .box-content{
+  height: 200px;
+  width: 100%;
+}
+
+.x-img{
+  width: 100%;
+  white-space: nowrap;
+}
+
+.box .box-content .scroll-img{
+  margin: 0.3em 0.3em;
+  height: 200px;
+  width: 150px;
+  border-radius: 20px;
+}
+
+.box .box-content .scroll-img:first-child{
+  margin-left: 0;
+}

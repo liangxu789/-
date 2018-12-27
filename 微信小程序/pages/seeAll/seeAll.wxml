@@ -1,0 +1,46 @@
+<!--pages/seeAll/seeAll.wxml-->
+<view class='placeholder'></view>
+<view class='page_title'>
+  <image class='back' src='/img/back.png'></image>
+  <text class='info'>全部内容</text>
+</view>
+<view class='sec_title'>
+  <view class='title_new'>NEW</view>
+  <view class='title_all'>ALL</view>
+  <image src='/img/up.png'></image>
+</view>
+<view class='all_content'>
+  <view class='content_tip'>
+    <view class='content_time'>12.26</view>
+    <view class='content_thing'>"种族主义者"甘地：一个不为人知的真相</view>
+  </view>
+  <view class='content_tip'>
+    <view class='content_time'>12.26</view>
+    <view class='content_thing'>"种族主义者"甘地：一个不为人知的真相</view>
+    <image class='content_gou' src='/img/gou.png'></image>
+  </view>
+  <view class='content_tip'>
+    <view class='content_time'>12.26</view>
+    <view class='content_thing'>"种族主义者"甘地：一个不为人知的真相</view>
+    <image class='content_gou' src='/img/gou.png'></image>
+  </view>
+  <view class='content_tip'>
+    <view class='content_time'>12.26</view>
+    <view class='content_thing'>"种族主义者"甘地：一个不为人知的真相</view>
+    <image class='content_gou' src='/img/gou.png'></image>
+  </view>
+  <view class='content_tip'>
+    <view class='content_time'>12.26</view>
+    <view class='content_thing'>"种族主义者"甘地：一个不为人知的真相</view>
+    <image class='content_gou' src='/img/gou.png'></image>
+  </view>
+  <view class='content_tip'>
+    <view class='content_time'>12.26</view>
+    <view class='content_thing'>"种族主义者"甘地：一个不为人知的真相</view>
+    <image class='content_gou' src='/img/gou.png'></image>
+  </view>
+  <view class='content_tip'>
+    <view class='content_time'>12.26</view>
+    <view class='content_thing'>"种族主义者"甘地：一个不为人知的真相</view>
+  </view>
+</view>

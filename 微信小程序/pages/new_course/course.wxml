@@ -1,0 +1,23 @@
+<!--pages/new_course/course.wxml-->
+<view class='placeholder'></view>
+<view class='container'>
+  <view class='page_title1'>
+    <image class='back' src='/img/back.png'></image>
+    <text class='info'>今日任务</text>
+  </view>
+  <view class='sec_title'>
+    <view class='active'>最新课程</view>
+    <view>全部课程</view>
+  </view>
+  <view class='content'>
+    <view class='shadow1'></view>
+    <view class='shadow2'></view>
+    <view class='mind_content'>
+      <image src='/img/xdd.jpg'></image>
+      <text>2018.12.11</text>
+      <view class='content_state'>"大船"和"风浪" ——学习习近平总书记的合作共赢金句。</view>
+      <view bindtap='jumpToContent' class='button_style color1'>学习</view>
+      <view class='button_style color2'>打卡</view>
+    </view>
+  </view>
+</view>

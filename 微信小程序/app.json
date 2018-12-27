@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/seeAll/seeAll",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/content/content",
+    "pages/new_course/course"
+  ],
+  "window": {
+    "navigationStyle": "custom"
+  }
+}

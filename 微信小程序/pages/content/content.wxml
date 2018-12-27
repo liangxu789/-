@@ -1,0 +1,67 @@
+<!--pages/content/content.wxml-->
+<view class='placeholder'></view>
+<view class='page_title'>
+    <image class='back' src='/img/back.png'></image>
+    <text class='info'>课程内容</text>
+</view>
+<view class='container'>
+  <view class='container2'>
+    <image class='img' src='/img/xdd.jpg'>
+      <view class='title'>"大船"和"风浪" ——学习习近平总书记的合作共赢金句。</view>
+      <view class='tip'>国际在线2018.12.12</view>
+    </image>
+
+    <view class='shidow1'></view>
+    <view class='window1'>
+      <view class='head_icon'><image src='/img/photo.png'></image></view>
+      <view class='introduce'>
+        <text class='text1'>国际快线</text>
+        <text class='text2'>清华大学工学硕士</text>
+        <text class='text3'>金牌讲师</text>
+      </view>
+    </view>
+  </view>
+  <view class='day_read'>
+      <view class='day_read_title'>
+        <image src='/img/read.png'></image>
+        <text>今日导读</text>
+      </view>
+      <view>
+        <text class='day_read_content'>层叠样式表(英文全称：Cascading Style Sheets)是一种用来表现HTML（标准通用标记语言的一个应用）或XML（标准通用标记语言的一个子集）等文件样式的计算机语言。CSS不仅可以静态地修饰网页，还可以配合各种脚本语言动态地对网页各元素进行格式化。
+  CSS 能够对网页中元素位置的排版进行像素级精确控制，支持几乎所有的字体字号样式，拥有对网页对象和模型样式编辑的能力。  </text>
+      </view>
+    </view>
+
+    <view class='day_read'>
+      <view class='day_read_title'>
+        <image src='/img/practice.png'></image>
+        <text>重点练习</text>
+      </view>
+      <view class='practice'>
+        <text>class helloWord {
+
+    public static void main(String[] args) {
+       
+        System.out.println("Hello World!!!");
+    }
+
+}</text>
+      </view>
+    </view>
+</view>
+
+<view class='player'>
+  <view class='active_progress'>
+    <text class='active_time'>00:00</text>
+    <progress percent="15" color="#EAC041" stroke-width="2" activeColor="#ffc12b" />
+    <text class='end_time'>21:00</text>
+  </view>
+  <view class='operation'>
+    <image class='back10' src='/img/back10.png'></image>
+    <image class='play' src='/img/play.png'></image>
+    <image class='forward10' src='/img/forward10.png'></image>
+  </view>
+</view>
+
+
+
